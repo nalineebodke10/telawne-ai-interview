@@ -1,0 +1,8 @@
+
+{
+  "name": "Telawne AI Interview System",
+  "description": "An end-to-end recruitment platform for Telawne Transformer Company featuring AI resume scoring, automated candidate communication, and multi-round AI-led interviews.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
